@@ -1,0 +1,3 @@
+/home/jibbity/Projects/CreativeCommonsThing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jibbity/Projects/CreativeCommonsThing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jibbity/Projects/CreativeCommonsThing/cmake-build-debug/CMakeFiles/CreativeCommonsThing.dir
